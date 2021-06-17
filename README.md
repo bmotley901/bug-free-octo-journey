@@ -1,2 +1,2 @@
 # bug-free-octo-journey
-Idk
+Adding new projects to learn new ways to code
